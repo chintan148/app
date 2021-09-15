@@ -1,15 +1,15 @@
 {
 "data":{
-   "Google_Banner":"ca-app-pub-3940256099942544\/6300978111",
-   "Google_Intertitial":"ca-app-pub-3940256099942544\/1033173712",
-   "Google_Native":"ca-app-pub-3940256099942544\/2247696110",
-   "Google_Native_Banner":"ca-app-pub-3940256099942544\/2247696110",
-    "Google_Open":"ca-app-pub-3940256099942544/3419835294",
-	 "Google_Splash_intre":"ca-app-pub-3940256099942544\/1033173712",
-   "FB_Banner":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
-   "FB_Intertitial":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-    "FB_Intertitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-   "FB_Native":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
-   "FB_Native_Banner":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958"
+   "Google_Banner":"/22387492205,22581676808/com.gotech.ffskin.ffdaimond.ffskin.Banner0.1631727649",
+   "Google_Intertitial":"/22387492205,22581676808/com.gotech.ffskin.ffdaimond.ffskin.Interstitial0.1631727737",
+   "Google_Native":"/22387492205,22581676808/com.gotech.ffskin.ffdaimond.ffskin.Native0.1631727698",
+   "Google_Native_Banner":"/22387492205,22581676808/com.gotech.ffskin.ffdaimond.ffskin.Native0.1631727698",
+    "Google_Open":"/22387492205,22581676808/com.gotech.ffskin.ffdaimond.ffskin.AppOpen0.1631727769",
+	 "Google_Splash_intre":"/22387492205,22581676808/com.gotech.ffskin.ffdaimond.ffskin.Interstitial0.1631727737",
+   "FB_Banner":"",
+   "FB_Intertitial":" ",
+    "FB_Intertitial1":" ",
+   "FB_Native":" ",
+   "FB_Native_Banner":" "
 }
 }
