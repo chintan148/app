@@ -1,17 +1,16 @@
 {
 "data":{
- 
+   "Google_Banner":"ca-app-pub-3940256099942544\/6300978111",
+   "Google_Intertitial":"ca-app-pub-3940256099942544\/1033173712",
+   "Google_Native":"ca-app-pub-3940256099942544\/2247696110",
+   "Google_Native_Banner":"ca-app-pub-3940256099942544\/2247696110",
+    "Google_Open":"ca-app-pub-3940256099942544/3419835294",
+	 "Google_Splash_intre":"ca-app-pub-3940256099942544\/1033173712",
    "FB_Banner":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
    "FB_Intertitial":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-      "FB_Intertitial_exit":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+    "FB_Intertitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
    "FB_Native":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
    "FB_Native_Banner":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958",
-   "mopub_banner":"b195f8dd8ded45fe847ad89ed1d016da",
-   "mopub_intretial":"24534e1901884e398f1253216226017e",
-   "mopub_intretial_exit":"24534e1901884e398f1253216226017e",
-   "mopub_native":"11a17b188668469fb0412708c3d16813",
-   "mopub_native_baner":"11a17b188668469fb0412708c3d16813",
-   "onback":"1"
-
+"onback":"1"
 }
 }
