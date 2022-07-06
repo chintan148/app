@@ -1,11 +1,11 @@
 {
 "data":{
-   "Google_Banner":"ca-app-pub-7157410005910166/7127924285",
-   "Google_Intertitial":"ca-app-pub-7157410005910166/1875597608",
-   "Google_Native":"ca-app-pub-7157410005910166/5431699232",
-   "Google_Native_Banner":"ca-app-pub-7157410005910166/4282269094",
-    "Google_Open":"ca-app-pub-7157410005910166/7674719195",
-	 "Google_Splash_intre":"ca-app-pub-7157410005910166/1875597608",
+   "Google_Banner":"/21753324030,22722602880/com.gotech.car.gps.familylocator_Banner",
+   "Google_Intertitial":"/21753324030,22722602880/com.gotech.car.gps.familylocator_Interstitial",
+   "Google_Native":"/21753324030,22722602880/com.gotech.car.gps.familylocator_Native",
+   "Google_Native_Banner":"/21753324030,22722602880/com.gotech.car.gps.familylocator_Native",
+    "Google_Open":"/21753324030,22722602880/com.gotech.car.gps.familylocator_AppOpen",
+	 "Google_Splash_intre":"/21753324030,22722602880/com.gotech.car.gps.familylocator_Interstitial",
    "FB_Banner":" ",
    "FB_Intertitial":" ",
     "FB_Intertitial1":" ",
